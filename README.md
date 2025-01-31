@@ -1,4 +1,6 @@
+
 # Wildfire Data Analysis Proposal
+
 # Project Overview
 
 Wildfires are natural disasters that can cause devastating impacts on the environment, economy, and human lives. This project aims to analyze wildfire data to identify trends, correlations, and insights that can help improve wildfire management and response strategies.
@@ -34,11 +36,9 @@ https://www.kaggle.com/code/ejhuerta/california-wildfire-analysis-years-2013-201
 - Data Collection & Cleaning
   Extract relevant data from wildfire incident reports and geospatial sources.
   Clean and preprocess the data to ensure consistency and accuracy.
-  
 - Exploratory Data Analysis (EDA)
   Use statistical methods and visualizations to uncover patterns and trends.
   Generate heatmaps, time-series plots, and bar charts for insights.
-
 - Geospatial Analysis
   Utilize GIS tools to map wildfire locations and identify risk-prone areas.
 
@@ -55,8 +55,13 @@ Google Docs (for presentation)
 - Better understanding of fire-related injuries and fatalities over time.
 
 # Team
+
 - Nia Richard
 - Renz Carl Supnet
 - Jay Boon
 - Denis Kalala
 - Esteban Ortega
+
+# project_1
+
+Here are is a FIRMS Resources and it aslo gives us a quick way to access the api:
