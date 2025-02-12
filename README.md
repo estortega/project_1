@@ -1,4 +1,3 @@
-
 # Wildfire Data Analysis Proposal
 
 ![1739333844902](image/README/1739333844902.png)
@@ -43,6 +42,42 @@ https://www.kaggle.com/code/ejhuerta/california-wildfire-analysis-years-2013-201
   Generate heatmaps, time-series plots, and bar charts for insights.
 - Geospatial Analysis
   Utilize GIS tools to map wildfire locations and identify risk-prone areas.
+
+
+# Exploratory Analysis, Findings, Patterns, Corelations And hypothesis Testing
+
+We have provided visualizations which include:
+
+### * What are the geographic patterns of wildfire occurrences (latitude/longitude mapping)?
+
+* {Nia add your graphs here or send it to me and I will add it}
+
+### * How does the number of fire incidents vary by month?
+
+* ![1739337588040](image/README/1739337588040.png)
+* ![1739337604251](image/README/1739337604251.png)
+* ![1739337615229](image/README/1739337615229.png)
+
+### * What is the ideal firefighter-to-acre ratio for effective wildfire suppression
+
+* ![1739337513922](image/README/1739337513922.png)
+* ![1739337532935](image/README/1739337532935.png)
+
+
+### * How the injuries and the deaths correlate overtime ? and try to answer if the fires severity is the reason for it to be high or perhaps we have gotten better at stopping fires
+
+*  ![1739337130252](image/README/1739337130252.png)
+* ![1739337167868](image/README/1739337167868.png)
+
+* ![1739337180658](image/README/1739337180658.png)
+
+### * How many personnel, air tankers, and other firefighting resources are used on average per wildfire?
+
+* ![1739337404978](image/README/1739337404978.png)
+* ![1739337424076](image/README/1739337424076.png)
+* ![1739337462959](image/README/1739337462959.png)
+
+
 
 # Tools & Technologies
 
