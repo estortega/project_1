@@ -55,8 +55,8 @@ Google Docs (for presentation)
 - Better understanding of fire-related injuries and fatalities over time.
 
 # Team
-Nia Richard
-Renz Carl Supnet
-Jay Boon
-Denis Kalala
-Esteban Ortega
+- Nia Richard
+- Renz Carl Supnet
+- Jay Boon
+- Denis Kalala
+- Esteban Ortega
