@@ -181,4 +181,4 @@ Google Docs (for presentation)
 - Jay Boon
 - Denis Kalala
 - Esteban Ortega
->>>>>>> 7660019 (Resolved merge conflict in README.md)
+
