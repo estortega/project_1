@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 # Wildfire Data Analysis Proposal
 
 # Project Overview
