@@ -96,7 +96,6 @@ Google Docs (for presentation)
 
 # Team
 
-- Nia Richard
 - Renz Carl Supnet
 - Jay Boon
 - Denis Kalala
